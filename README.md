@@ -4,5 +4,5 @@
 
 * [JurassicGame_Demo](https://www.linkedin.com/posts/jos%C3%A9-wesley-da-silva-220376200_boa-noite-recriando-o-famoso-joguinho-do-activity-6758602294108966912-_HZg)
 
-![](https://github.com/Josewesley2020/JurassicGame/blob/main/imgs/Captura%20de%20tela%20de%202021-01-29%2002-53-02.png)
+
 
